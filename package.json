@@ -21,9 +21,7 @@
     "url": "https://github.com/Melisa-Zorraindo/joker/issues"
   },
   "homepage": "https://github.com/Melisa-Zorraindo/joker#readme",
-  "dependencies": {
-    "one-liner-joke": "^1.2.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "prettier": "^2.7.1"
   }
