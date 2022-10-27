@@ -19,6 +19,8 @@
   "bugs": {
     "url": "https://github.com/Melisa-Zorraindo/joker/issues"
   },
-  "homepage": "https://github.com/Melisa-Zorraindo/joker#readme"
-  
+  "homepage": "https://github.com/Melisa-Zorraindo/joker#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
